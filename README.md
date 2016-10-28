@@ -1,2 +1,2 @@
-# National-Contests
-National Contest Solutions
+# Contest Problems
+Contest Problem Solutions
